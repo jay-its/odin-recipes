@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I hope to use all of the HTML skills I have learned so far. I am excited, but also nervous because I don't yet feel I have a thorough grasp on the material. However, I am confident that with enough reps I will be able to succeed. 
