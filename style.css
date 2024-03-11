@@ -1,0 +1,61 @@
+/* I'm not sure if you create a different css sheet for each page, but this is just for the index */
+
+* {
+    background-color: azure;
+}
+
+.button-links {
+    text-align: center;
+}
+
+.button {
+    background-color: rgb(154, 224, 154);
+    text-decoration-line: none;
+    font-size: large;
+    font: Verdana, sans-serif;  
+    border: r;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(128, 124, 124);
+}
+
+.description { 
+    color: orange;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+h1 {
+    text-align: center;
+    font: Verdana, bold;
+}
+
+.steps-list,
+.ingredients-list {
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+
+h2 {
+    font-style: 
+}
+
+.simple {
+    font-size: large;
+}
+
+.btw {
+    font-style: italic;
+}
+
+.red-points {
+    color: rgb(243, 23, 23);
+    background-color: bisque;
+    outline: auto;
+    outline-color: blanchedalmond; 
+}
